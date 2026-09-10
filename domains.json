@@ -2059,8 +2059,11 @@
     "telegram_url": "https://www.gg8826.com/?id=954996205"
   },
   "www.ockjc.com": {
-    "main_url": "https://gg8859.com/home/register?id=846317459",
-    "messenger_url": "https://gg8859.com/home/register?id=846317459"
+    "main_url": "https://gg8845.com/?id=252102743",
+    "register_url": "https://gg8845.com/?id=252102743",
+    "app_url": "https://gg8845.com/?id=252102743",
+    "cskh_url": "https://gg8845.com/?id=252102743",
+    "messenger_url": "https://gg8845.com/?id=252102743"
   },
   "ggtong.me": {
     "main_url": "https://www.gg8824.com/?id=488295694",
@@ -2608,5 +2611,12 @@
     "app_url": "https://gg8838.com/?id=799951865",
     "cskh_url": "https://gg8838.com/?id=799951865",
     "messenger_url": "https://gg8838.com/?id=799951865"
+  },
+  "ockjc.com": {
+    "main_url": "https://gg8845.com/?id=252102743",
+    "register_url": "https://gg8845.com/?id=252102743",
+    "app_url": "https://gg8845.com/?id=252102743",
+    "cskh_url": "https://gg8845.com/?id=252102743",
+    "messenger_url": "https://gg8845.com/?id=252102743"
   }
 }
