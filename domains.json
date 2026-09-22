@@ -698,8 +698,9 @@
     "messenger_url": "https://www.gg8844.com/?id=811415074"
   },
   "gg88qt.pro": {
-    "main_url": "https://www.gg8826.com/?id=506602188",
-    "messenger_url": "https://www.gg8826.com/?id=506602188"
+    "main_url": "https://gg8835.com",
+    "messenger_url": "https://gg8835.com",
+    "telegram_url": "https://gg8835.com"
   },
   "gg88uk.vip": {
     "main_url": "https://gg8849.com/?id=217186042",
@@ -2812,5 +2813,10 @@
     "main_url": "https://www.gg8832.com/home/register?id=125115306",
     "messenger_url": "https://www.gg8832.com/home/register?id=125115306",
     "telegram_url": "https://www.gg8832.com/home/register?id=125115306"
+  },
+  "www.gg88qt.pro": {
+    "main_url": "https://gg8835.com",
+    "messenger_url": "https://gg8835.com",
+    "telegram_url": "https://gg8835.com"
   }
 }
