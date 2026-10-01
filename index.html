@@ -701,7 +701,8 @@ function initFBPixel(pixelId, accessToken) {
 
 function resolveSiteConfig(cfg, domains) {
   const host = window.location.hostname.toLowerCase().replace(/^www\./, '');
-  const domainKey = Object.keys(domains || {}).find(k => k.toLowerCase() === host);
+  const keys = Object.keys(domains || {});
+  const domainKey = keys.find(k => k === host) || keys.find(k => k.toLowerCase() === host);
   const domainCfg = domainKey ? domains[domainKey] : (domains[host] || {});
   const mainUrl = (typeof domainCfg === 'string' ? domainCfg : domainCfg.main_url) || cfg.main_url || '#';
   let messUrl =
