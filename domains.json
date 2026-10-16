@@ -1249,10 +1249,6 @@
     "messenger_url": "https://gg8859.com/?id=979545946",
     "telegram_url": "https://gg8859.com/?id=979545946"
   },
-  "gg8838.us": {
-    "main_url": "https://gg8846.com/?id=123899948",
-    "messenger_url": "https://gg8846.com/?id=123899948"
-  },
   "gg8866.us": {
     "main_url": "https://gg8858.com/?id=127390470",
     "messenger_url": "https://gg8858.com/?id=127390470"
@@ -3101,5 +3097,13 @@
     "main_url": "https://gg8824.com/home/register?id=578000069",
     "messenger_url": "https://gg8824.com/home/register?id=578000069",
     "telegram_url": "https://gg8824.com/home/register?id=578000069"
+  },
+  "gg8838.us": {
+    "main_url": "https://gg8846.com/?id=477859970",
+    "messenger_url": "https://gg8846.com/?id=477859970"
+  },
+  "www.gg8838.us": {
+    "main_url": "https://gg8846.com/?id=477859970",
+    "messenger_url": "https://gg8846.com/?id=477859970"
   }
 }
