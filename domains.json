@@ -2664,16 +2664,6 @@
     "messenger_url": "https://www.gg8832.com/?id=312156568",
     "telegram_url": "https://www.gg8832.com/?id=312156568"
   },
-  "gg88ip.com": {
-    "main_url": "https://www.gg8835.com/?id=184158569",
-    "messenger_url": "https://www.gg8835.com/?id=184158569",
-    "telegram_url": "https://www.gg8835.com/?id=184158569"
-  },
-  "www.gg88ip.com": {
-    "main_url": "https://www.gg8835.com/?id=184158569",
-    "messenger_url": "https://www.gg8835.com/?id=184158569",
-    "telegram_url": "https://www.gg8835.com/?id=184158569"
-  },
   "ggqte.com": {
     "main_url": "https://gg8849.com/?id=972797109",
     "messenger_url": "https://gg8849.com/?id=972797109",
@@ -3083,5 +3073,15 @@
     "main_url": "https://www.gg8850.com/?id=161360437",
     "messenger_url": "https://www.gg8850.com/?id=161360437",
     "telegram_url": "https://www.gg8850.com/?id=161360437"
+  },
+  "gg88ip.com": {
+    "main_url": "https://www.gg8838.com/?id=972797109",
+    "messenger_url": "https://www.gg8838.com/?id=972797109",
+    "telegram_url": "https://www.gg8838.com/?id=972797109"
+  },
+  "www.gg88ip.com": {
+    "main_url": "https://www.gg8838.com/?id=972797109",
+    "messenger_url": "https://www.gg8838.com/?id=972797109",
+    "telegram_url": "https://www.gg8838.com/?id=972797109"
   }
 }
