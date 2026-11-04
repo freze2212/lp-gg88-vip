@@ -2424,16 +2424,6 @@
     "messenger_url": "https://www.gg8858.com/?id=580463217",
     "telegram_url": "https://www.gg8858.com/?id=580463217"
   },
-  "gg88qt.pro": {
-    "main_url": "https://gg8838.com/?id=572034528",
-    "messenger_url": "https://gg8838.com/?id=572034528",
-    "telegram_url": "https://gg8838.com/?id=572034528"
-  },
-  "www.gg88qt.pro": {
-    "main_url": "https://gg8838.com/?id=572034528",
-    "messenger_url": "https://gg8838.com/?id=572034528",
-    "telegram_url": "https://gg8838.com/?id=572034528"
-  },
   "ggusa.cc": {
     "main_url": "https://gg8858.com/?id=842698623",
     "messenger_url": "https://gg8858.com/?id=842698623",
@@ -3125,5 +3115,15 @@
     "main_url": "https://www.gg8844.com/home/register?id=287675360",
     "messenger_url": "https://www.gg8844.com/home/register?id=287675360",
     "telegram_url": "https://www.gg8844.com/home/register?id=287675360"
+  },
+  "gg88qt.pro": {
+    "main_url": "https://www.gg8844.com/home/register?id=572034528",
+    "messenger_url": "https://www.gg8844.com/home/register?id=572034528",
+    "telegram_url": "https://www.gg8844.com/home/register?id=572034528"
+  },
+  "www.gg88qt.pro": {
+    "main_url": "https://www.gg8844.com/home/register?id=572034528",
+    "messenger_url": "https://www.gg8844.com/home/register?id=572034528",
+    "telegram_url": "https://www.gg8844.com/home/register?id=572034528"
   }
 }
